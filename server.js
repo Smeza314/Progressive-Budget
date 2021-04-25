@@ -25,4 +25,3 @@ app.use(require("./routes/api.js"));
 app.listen(process.env.PORT || 3000, () => {
   console.log(`App running on port 3000!`);
 });
-© 2021 GitHub, Inc.
